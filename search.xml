@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>Markdown Introduction</title>
+      <title>Introduction of Markdown</title>
       <link href="2020/12/24/test/"/>
       <url>2020/12/24/test/</url>
       
-        <content type="html"><![CDATA[<p>apple asd</p>]]></content>
+        <content type="html"><![CDATA[<blockquote><p>本文概要：學習Markdown基本語法，快速記錄梳理編程知識點和解決問題的方法</p></blockquote><ol><li>代碼展示</li></ol><figure class="highlight python"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">helloWorld</span>():</span></span><br><span class="line">    print(<span class="string">'HelloWorld'</span>)</span><br></pre></td></tr></tbody></table></figure><ol start="2"><li></li></ol>]]></content>
       
       
       <categories>
